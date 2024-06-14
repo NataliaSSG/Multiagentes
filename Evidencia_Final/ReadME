@@ -1,0 +1,10 @@
+Descargar Zip conteniendo el proyecto de Unity
+Ejecutar carpeta en Unity
+Correr aplicacion de Unity (servidor)
+
+Usamos VisualStudioCode
+Corremos el programa de client-duplex-1.py (cliente)
+
+
+#Notas: Puedes ajustar los puertos a los que sean de tu preferencia, pero tienes que ajustar el puerto para que sean los mismos en el programa de python
+#y en el script de C# de TCPIPServerAsync para establecer la comunicación.
